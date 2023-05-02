@@ -1,2 +1,2 @@
 # TCCUSPMonkeyPox
-repositorio do TCC pós USP
+repositorio do TCC 
